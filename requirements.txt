@@ -1,0 +1,22 @@
+# Core deep learning
+torch>=2.0.0
+torch-geometric>=2.3.0
+
+# Manejo de datos
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Machine learning
+scikit-learn>=1.3.0
+
+# Visualización
+matplotlib>=3.7.0
+
+# Procesamiento de señales EEG
+mne>=1.5.0
+scipy>=1.11.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
+ipywidgets>=8.0.0

@@ -1,0 +1,88 @@
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+build/
+dist/
+
+# ============================================
+# Entornos virtuales
+# ============================================
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# ============================================
+# Jupyter
+# ============================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ============================================
+# IDE / editores
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================================
+# Sistema operativo
+# ============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================
+# Datos: NO subir
+# ============================================
+# Matrices de conectividad generadas
+ConnectivityMatrices*/
+*.npy
+
+# Datasets crudos
+raw_data/
+data/
+*.edf
+*.bdf
+*.fif
+*.set
+*.fdt
+*.cnt
+*.eeg
+*.vhdr
+*.vmrk
+
+# CSVs grandes
+matrices_*.csv
+
+# ============================================
+# Resultados generados
+# ============================================
+# Plots auto-generados durante entrenamiento
+results_*.png
+results_GCN_*.png
+
+# Modelos entrenados (pesos)
+*.pt
+*.pth
+*.h5
+checkpoints/
+
+# Logs
+*.log
+logs/
+
+# ============================================
+# Documentos temporales
+# ============================================
+~$*
+*.tmp
