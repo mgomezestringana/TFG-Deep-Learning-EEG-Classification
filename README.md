@@ -150,7 +150,3 @@ Para el análisis detallado, ver la memoria del TFG en `docs/memoria_TFG.pdf`.
 
 ---
 
-## 📄 Licencia
-
-Pendiente de definir.
-
